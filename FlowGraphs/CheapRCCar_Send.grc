@@ -105,7 +105,7 @@
     </param>
     <param>
       <key>value</key>
-      <value>49e6</value>
+      <value>433e6</value>
     </param>
   </block>
   <block>
@@ -657,11 +657,11 @@
     </param>
     <param>
       <key>_enabled</key>
-      <value>True</value>
+      <value>0</value>
     </param>
     <param>
       <key>file</key>
-      <value>S:\SDROutput\RCCar\GeneratedOut.wav</value>
+      <value>S:\SDROutput\RCCar\GeneratedOut2.wav</value>
     </param>
     <param>
       <key>_coordinate</key>
